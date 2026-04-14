@@ -12,5 +12,8 @@
 * git checkout -b ArtemZabolotnyi
 * git branch
 * git add ArtemZabolotnyi.txt
-
+* git commit -m "Zadanie 2"
+* git push
+## Zadanie 3
 ! [1.png]
+! [2.png]
